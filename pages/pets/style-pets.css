@@ -222,7 +222,7 @@ a{
     }
 
     .footer {
-    background: url("/shelter/assets/images/footer-gradient-background.jpg");
+    background: url("../../assets/images/footer-gradient-background.jpg");
     background-size: cover;
     padding: 40px 0 0 0;
     }
