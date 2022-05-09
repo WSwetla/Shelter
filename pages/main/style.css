@@ -19,7 +19,7 @@
     box-sizing: border-box;
     min-width: 320px;
     margin: 0 auto;
-    font-family: Arial, Futura, sans-serif;
+    font-family: Arial, sans-serif;
     font-size: 15px;
 }
 html {
@@ -34,7 +34,7 @@ html {
 h1{
     margin: 0;
     padding: 0;
-    font-family: Georgia, Times, serif;
+    font-family: Georgia, serif;
     font-size: 32px;
     color: #F1CDB3;
     line-height: 35px;
@@ -45,7 +45,7 @@ h1{
 .subtitle{
     margin: 0;
     padding: 0;
-    font-family: Arial, Futura, sans-serif;
+    font-family: Arial, sans-serif;
     line-height: 15px;
     font-size: 13px;
     font-weight: 400;
@@ -55,7 +55,7 @@ h1{
 h2 {
     margin: 0;
     padding: 0;
-    font-family: Georgia, Times, serif;
+    font-family: Georgia, serif;
     font-size: 25px;
     color: #000000;
     line-height: 32.5px;
@@ -76,7 +76,7 @@ a{
     height: 52px;
     color: #292929;
     border-radius: 100px;
-    font-family: Georgia, Times, serif;
+    font-family: Georgia, serif;
     font-size: 17px;
     line-height: 22px;
     letter-spacing: 0.06em;
@@ -136,7 +136,7 @@ a{
     letter-spacing: 0.06em;
     font-weight: 400;
     font-size: 20px;
-    font-family: Georgia, Times, serif;
+    font-family: Georgia, serif;
     font-weight: 400;
     margin-left: 30px;
 }
@@ -191,7 +191,7 @@ a{
 
 @media (min-width: 1280px){
     .header-background {
-        background: url("/shelter/assets/images/gradient-background.png");
+        background: url("../../assets/images/gradient-background.png");
         background-size: cover;
     }
 
@@ -237,7 +237,7 @@ a{
 
     .biggi-title {
         margin: 0;
-        font-family: Georgia, Times, serif;
+        font-family: Georgia, serif;
         color: #FFFFFF;
         font-weight: 400;
         line-height: 57px;
@@ -249,7 +249,7 @@ a{
     }
 
     .text-container1 {
-        font-family: Arial, Futura, sans-serif;
+        font-family: Arial, sans-serif;
         color: #CDCDCD;
         font-weight: 400;
         line-height: 24px;
@@ -258,7 +258,7 @@ a{
     }
 
     .biggi-dog-img {
-        background: url("/shelter/assets/images/biggi.png");
+        background: url("../../assets/images/biggi.png");
         width: 100%;
         height: 593px;
         background-size: contain;
@@ -276,7 +276,7 @@ a{
     }
 
     .about-img {
-        background: url("/shelter/assets/images/about-pets-container.png");
+        background: url("../../assets/images/about-pets-container.png");
         width: 300px;
         height: 408px;
         background-size: cover;
@@ -377,7 +377,7 @@ a{
     .help-text {
         color: #545454;
         letter-spacing: 0.06em;
-        font-family: Georgia, Times, serif;
+        font-family: Georgia, serif;
         font-weight: 400;
         font-size: 20px;
         line-height: 23px;
@@ -423,7 +423,7 @@ a{
         font-size: 15px;
         line-height: 17px;
         font-weight: 400;
-        font-family: Georgia, Times, serif;
+        font-family: Georgia, serif;
         margin-bottom: 20px;
     }
 
@@ -442,7 +442,7 @@ a{
 
     .donation-card__number {
         letter-spacing: 0.06em;
-        font-family: Georgia, Times, serif;
+        font-family: Georgia, serif;
         font-weight: 400;
         font-size: 20px;
         color: #545454;
@@ -457,7 +457,7 @@ a{
     }
 
     .footer {
-        background: url("/shelter/assets/images/footer-gradient-background.jpg");
+        background: url("../../assets/images/footer-gradient-background.jpg");
         background-size: cover;
         padding: 40px 0 0 0;
     }
